@@ -1,3 +1,7 @@
+# mysql-python
+Usual mysql-python to serve version 1.2.5
+
+
 MySQLdb1
 ========
 
